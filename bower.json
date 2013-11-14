@@ -1,0 +1,16 @@
+{
+    "name": "jquery-databind",
+    "keywords": ["jquery", "knockout", "data-bind"],
+    "description": "Inject Knockout data-bind attributes without cluttering source HTML",
+    "version": "0.1.0",
+    "license": "GPL v2",
+    "readmeFilename": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/heruan/jquery-databind.git"
+    },
+    "main": "jquery-databind.js",
+    "dependencies": {
+        "jquery": ">=1.9.1"
+    }
+}
